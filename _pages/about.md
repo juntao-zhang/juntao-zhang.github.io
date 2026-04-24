@@ -51,5 +51,5 @@ I develop end-to-end intelligent pipelines that integrate computer vision, machi
 
 ### Contact
 
-- Email: your-email@iastate.edu  
-- GitHub: https://github.com/juntao-zhang  
+- Email: juntaoz@iastate.edu
+- GitHub: [juntao-zhang](https://github.com/juntao-zhang)
