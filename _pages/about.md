@@ -16,8 +16,6 @@ selected_papers: false
 social: true
 ---
 
-I am a Ph.D. student in Mechanical Engineering at Iowa State University.
-
 My research focuses on AI-powered Atomic Force Microscopy (AFM), with an emphasis on image analysis, artifact detection, and physics-aware reconstruction.
 
 Specifically, I work on:
