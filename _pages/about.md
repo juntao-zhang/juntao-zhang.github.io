@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student in Mechanical Engineering @ Iowa State University
+subtitle: Ph.D. Student | AI-Powered Atomic Force Microscopy (AFM)
 
 profile:
   align: right
