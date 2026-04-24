@@ -81,13 +81,24 @@
   contents:
     - title: Programming
       items:
-        - Python, MATLAB, C++
+        - Python
+        - MATLAB
+        - C++
     - title: Machine Learning
       items:
-        - PyTorch, CNN, Segmentation, Object Detection
+        - PyTorch
+        - CNN
+        - Segmentation
+        - Object Detection
     - title: Tools
       items:
-        - Git, Linux, Bruker AFM, Tkinter
+        - Git
+        - Linux
+        - Bruker AFM
+        - Tkinter
     - title: Research
       items:
-        - AFM imaging, image processing, physics-based modeling
+        - AFM imaging
+        - Image processing
+        - Physics-based modeling
+      
