@@ -3,20 +3,20 @@
   contents:
     - title: Ph.D. in Mechanical Engineering
       institution: Iowa State University, Ames, IA
-      year: 2021 - Present
+      year: "2021 - Present"
       description:
         - Direct Ph.D. program (initially admitted as M.S. student)
         - Advisor: Prof. Juan Ren
 
     - title: B.S. in Mechanical Engineering
       institution: Iowa State University
-      year: 2017 - 2020
+      year: "2017 - 2020"
 
 - title: Publications
   type: time_table
   contents:
     - title: "Artifact Removal and Image Restoration in AFM"
-      year: 2026
+      year: "2026"
       description:
         - First author
         - arXiv preprint
@@ -25,7 +25,7 @@
       description:
         - First author, IEEE Access
     - title: "Deep Learning for Live Cell Shape Detection"
-      year: 2022
+      year: "2022"
       description:
         - Co-author, Bioengineering
         
@@ -34,7 +34,7 @@
   contents:
     - title: AFM Image Restoration and Analysis
       institution: Iowa State University
-      year: 2024 - Present
+      year: "2024 - Present"
       description:
         - Developed Smart Flatten algorithm for AFM surface correction
         - Built deep learning pipeline for artifact detection and segmentation
@@ -42,7 +42,7 @@
 
     - title: AFM Digital Twin Simulation
       institution: Iowa State University
-      year: 2025 - Present
+      year: "2025 - Present"
       description:
         - Developed physics-based AFM scanning simulation
         - Modeled tip–sample interaction and probe geometry effects
@@ -50,7 +50,7 @@
 
     - title: AI-based AFM Automation
       institution: Iowa State University
-      year: 2022 - 2024
+      year: "2022 - 2024"
       description:
         - Applied deep learning for defect detection and classification
         - Integrated CV models into AFM workflow
@@ -59,20 +59,20 @@
   type: time_table
   contents:
     - title: AFM Repair GUI
-      year: 2025
+      year: "2025"
       description:
         - Developed interactive GUI for AFM image restoration
         - Integrated segmentation + inpainting pipeline
         - Enabled parameter tuning and batch processing
 
     - title: Smart Flatten Algorithm
-      year: 2024
+      year: "2024"
       description:
         - Designed adaptive flattening with masking and buffer strategy
         - Improved background smoothness and structure preservation
 
     - title: AFM Digital Twin
-      year: 2025
+      year: "2025"
       description:
         - Simulated AFM scanning process with tip convolution
         - Enabled comparison between measured and simulated data
