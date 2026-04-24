@@ -1,6 +1,8 @@
 name: Render a CV
+# on:
+#   push:
 on:
-  push:
+  workflow_dispatch:
     branches:
       - main
       - master
